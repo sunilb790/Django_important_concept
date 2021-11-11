@@ -1,2 +1,2 @@
-# crash-course-CRM
+# Django_crash_concept
 Django customer management platform
